@@ -1,0 +1,1 @@
+{"version":3,"file":"about-a5a351d6.js","sources":["../../../../pages/about.vue"],"sourcesContent":["<template>\n    <div>\n        <h1>เกี่ยวกับเรา</h1>\n    </div>\n</template>\n<script setup lang=\"ts\">\nuseHead({\n  title: 'เกี่ยวกับเรา',\n})\n</script>\n<style scoped></style>"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;AAMQ,YAAA;AAAA,MACN,OAAO;AAAA,IAAA,CACR;;;;;;;;;;;;"}

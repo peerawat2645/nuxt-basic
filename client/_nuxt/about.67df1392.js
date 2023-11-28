@@ -1,0 +1,1 @@
+import{u as e}from"./vue.f36acd1f.398c099d.js";import{f as t,o,c as a,a as s}from"./entry.443499a3.js";const n=s("h1",null,"เกี่ยวกับเรา",-1),c=[n],m=t({__name:"about",setup(r){return e({title:"เกี่ยวกับเรา"}),(_,l)=>(o(),a("div",null,c))}});export{m as default};
